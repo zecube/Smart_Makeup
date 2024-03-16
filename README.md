@@ -72,5 +72,12 @@ This technology was implemented through the integration of Firebase's real-time 
 
 ---
 
-# IoT Furniture Control
+# IoT Furniture Control & Digital Healthcare
 
+![p14](https://github.com/zecube/Smart_Makeup/assets/117415885/b9fc16dc-e2f7-440b-9d2b-a716bdfacbfb)
+
+Through the integration with Firebase's real-time database, we can control the Arduino-based air purifier we built. The sensor data from the air purifier can be monitored on the smart vanity and Android app, which also allows power control over the device.
+
+On the smart vanity screen, you can check the air purifier status and control its power by tapping the IoT control button. The Android app provides an air purifier list view to access the related information.
+
+---

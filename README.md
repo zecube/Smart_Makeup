@@ -61,3 +61,16 @@ This step-by-step process allows you to fully customize your perfect makeup acco
 # Online Cosmetics Shopping
 
 ![p13](https://github.com/zecube/Smart_Makeup/assets/117415885/35645719-f10f-4472-b4e8-945307b147f6)
+
+After the virtual makeup trial, you simply need to add your desired colors to the cart. It's seamlessly integrated with a smartphone app for easy online purchasing.
+
+This brings innovative practicality to the previously impractical online cosmetics market through virtual try-on experiences. By testing products beforehand, the likelihood of purchasing ill-fitting makeup that ends up wasted drastically decreases.
+
+As a result, consumers enjoy a satisfying shopping experience, while businesses boost sales efficiency. Most importantly, from an environmental standpoint, cosmetic waste significantly reduces, increasing sustainability. The integration of virtual reality technology ushers transformative change across the cosmetics industry as a whole.
+
+This technology was implemented through the integration of Firebase's real-time database between the Jetson board and Android platform.
+
+---
+
+# IoT Furniture Control
+

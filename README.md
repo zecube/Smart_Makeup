@@ -81,3 +81,12 @@ Through the integration with Firebase's real-time database, we can control the A
 On the smart vanity screen, you can check the air purifier status and control its power by tapping the IoT control button. The Android app provides an air purifier list view to access the related information.
 
 ---
+
+![p1499](https://github.com/zecube/Smart_Makeup/assets/117415885/5846483a-1460-4216-b83c-1af4956d0e1e)
+
+This vanity table incorporates digital healthcare features for melanoma detection and stress management. Users can easily activate the melanoma detection and stress relief through facial expression analysis functions by simply touching the button on the vanity table.
+
+This vanity table utilizes the ABCDE technique for melanoma detection. It also leverages a Keras-based AI model to analyze the user's facial expressions. If negative expressions are detected, indicating a high risk of stress, it plays relaxing music to help alleviate the user's stress levels.
+
+---
+
